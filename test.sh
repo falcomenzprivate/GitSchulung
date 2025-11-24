@@ -1,6 +1,6 @@
 #!/bin/bash
 #test
 
-echo "Test"
+echo "Test2"
 
 exit 0
