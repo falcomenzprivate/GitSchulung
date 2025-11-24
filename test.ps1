@@ -1,1 +1,1 @@
-write-Host "Bardo stinkt"
+write-Host ":()"
