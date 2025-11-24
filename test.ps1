@@ -1,1 +1,1 @@
-write-Host ":()"
+write-Host "Irgendeine Powershell Ausgabe"
