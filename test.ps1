@@ -1,0 +1,1 @@
+write-Host "Bardo stinkt"
